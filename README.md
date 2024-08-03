@@ -7,8 +7,14 @@ https://discord.gg/JqVMfUHzEF
 
 
 
+https://github.com/user-attachments/assets/31dc4726-10d6-495e-ad7b-aafd5f0afbec
 
-https://github.com/kaidadnd/Revolt/assets/149662766/96e16a4d-0fdc-4600-9358-60f594c63c38
+
+🎯 **100% Accurate**
+
+🕵️ **Completely Undetectable**
+
+🤖 **Fully automated**
 
 
 # 🔍 How It Works
