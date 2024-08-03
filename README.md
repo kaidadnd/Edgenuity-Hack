@@ -1,6 +1,6 @@
 # 🚀 1# Edgenuity Hack
 
-Join the RevoltEdge Discord server!
+Join the Revolt Discord server!
 
 
 https://discord.gg/JqVMfUHzEF
