@@ -1,4 +1,4 @@
-# 🚀 Revolt Edgenuity Bot
+# 🚀 1# Edgenuity Hack
 
 Join the RevoltEdge Discord server!
 
