@@ -1,8 +1,8 @@
 # 🚀 1# Edgenuity Hack
 
-Join the Revolt Discord server!
-
 **Revolt is #1 script for Edgenuity. Edgenuity is Edgenuity is a common site used for middle school, high school and college classes.**
+
+Join the Revolt Discord server!
 
 https://discord.gg/JqVMfUHzEF
 
