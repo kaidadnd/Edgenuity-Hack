@@ -1,6 +1,6 @@
 # 🚀 1# Edgenuity Hack
 
-**Revolt is #1 script for Edgenuity. Edgenuity is Edgenuity is a common site used for middle school, high school and college classes.**
+**Revolt is #1 script for Edgenuity. Also known as Edgenuity bot, Edgenuity is a common site used for middle school, high school and college classes.**
 
 [Join the Revolt Discord server!](https://discord.gg/JqVMfUHzEF)
 
@@ -22,7 +22,7 @@ Revolt is a Tampermonkey script that is as easy as a two-click install. Once ins
 
 # 🔍 What It Does
 
-Revolt is the #1 fully automated Edgenuity CourseTool.
+Revolt has many functionalities, Revolt gets 100% of Edgenuity Answers, Auto Skips Videos in as easy as two clicks to install!
 
 Features:
 
@@ -44,10 +44,7 @@ And more+
 
 Works on all types of coursework!
 
-Edgenuity Script
-Edgenuity Hacks
-Edgenuity Answers
-Edgenuity Bot
-
-# ⚠️ Disclaimer
-Please be aware that using scripts to automatically answer assignments may constitute academic dishonesty. We don’t recommend you use Revolt for edgenuity specifically. Revolt wasn’t made for edgenuity, it was made to automate all sites. It just happens to work with that site. We strongly advise against using this tool in situations where it violates educational integrity or institutional policies. This script is provided for educational and demonstration purposes only, and we do not endorse its use for unethical practices.
+Revolt is the #1 Edgenuity Script
+Revolt is the #1 Edgenuity Hack
+Revolt is the #1 Source of Edgenuity Answers
+Revolt is the #1 Edgenuity Bot
