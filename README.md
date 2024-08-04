@@ -2,7 +2,7 @@
 
 Join the Revolt Discord server!
 
-Revolt is #1 script for Edgenuity. Edgenuity is Edgenuity is a common site used for middle school, high school and college classes.
+**Revolt is #1 script for Edgenuity. Edgenuity is Edgenuity is a common site used for middle school, high school and college classes.**
 
 https://discord.gg/JqVMfUHzEF
 
