@@ -4,8 +4,6 @@
 
 [Join the Revolt Discord server!](https://discord.gg/JqVMfUHzEF)
 
-![Revolt Banner](https://github.com/user-attachments/assets/31dc4726-10d6-495e-ad7b-aafd5f0afbec)
-
 🎯 **100% Accurate**
 
 🕵️ **Completely Undetectable by Edgenuity**
