@@ -4,9 +4,7 @@
 
 [Join the Revolt Discord server!](https://discord.gg/JqVMfUHzEF)
 
-
-https://github.com/user-attachments/assets/31dc4726-10d6-495e-ad7b-aafd5f0afbec
-
+![Revolt Banner](https://github.com/user-attachments/assets/31dc4726-10d6-495e-ad7b-aafd5f0afbec)
 
 🎯 **100% Accurate**
 
@@ -14,11 +12,9 @@ https://github.com/user-attachments/assets/31dc4726-10d6-495e-ad7b-aafd5f0afbec
 
 🤖 **Fully automated**
 
-
 # 🔍 How It Works
 
 Revolt is a Tampermonkey script that is as easy as a two-click install. Once installed, it will seamlessly integrate Into Edgenuity, automatically completing assignments, quizzes, and tests on Edgenuity. It can even skip some videos!
-
 
 # 🔍 What It Does
 
@@ -34,7 +30,7 @@ Features:
 
 ✨ Auto Advance
 
-✨ Auto Writting
+✨ Auto Writing
 
 ✨ Frame Unlocker
 
@@ -44,7 +40,7 @@ And more+
 
 Works on all types of coursework!
 
-Revolt is the #1 Edgenuity Script
-Revolt is the #1 Edgenuity Hack
-Revolt is the #1 Source of Edgenuity Answers
+Revolt is the #1 Edgenuity Script  
+Revolt is the #1 Edgenuity Hack  
+Revolt is the #1 Source of Edgenuity Answers  
 Revolt is the #1 Edgenuity Bot
