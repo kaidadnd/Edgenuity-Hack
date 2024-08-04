@@ -4,7 +4,9 @@
 
 [Join the Revolt Discord server!](https://discord.gg/JqVMfUHzEF)
 
-https://github.com/user-attachments/assets/31dc4726-10d6-495e-ad7b-aafd5f0afbec
+
+https://github.com/user-attachments/assets/ad7c6cab-6101-4d65-bb5f-1cd455fe62bd
+
 
 🎯 **100% Accurate**
 
