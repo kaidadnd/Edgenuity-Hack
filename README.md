@@ -1,6 +1,6 @@
 # 🚀 1# Edgenuity Hack
 
-**Revolt is #1 script for Edgenuity. Also known as Edgenuity bot, Edgenuity is a common site used for middle school, high school and college classes.**
+**Revolt is #1 script for Edgenuity including Auto Answer. Also known as Edgenuity bot, Edgenuity is a common site used for middle school, high school and college classes.**
 
 [Join Here to use the script](https://discord.gg/JqVMfUHzEF)
 
@@ -46,17 +46,13 @@ Features:
 
 Works on all types of coursework!
 
-Revolt is the #1 Edgenuity Script  
-Revolt is the #1 Edgenuity Hack  
-Revolt is the #1 Source of Edgenuity Answers  
-Revolt is the #1 Edgenuity Bot
-a userscript has been detected edgenuity	Informational	1900	24	0.00	Site links, Image pack, Video, People also ask, Related searches	This week
-do you need 100 overall grade to pass edgenuity	Informational	1900	22	0.00	Featured snippet, Site links, Reviews, Image pack, Video, People also ask, Related searches	Last week
-do you need 100 to pass edgenuity	Informational	1900	16	0.00	Site links, Reviews, Video, People also ask, Related searches	Last week
-how to know your grade on edgenuity test	Informational	1900	24	0.00	Featured snippet, Site links, Image pack, Video, People also ask, Related searches	Last week
-why did my edgenuity class dissapear	Informational	1900	32	0.00	Featured snippet, Site links, Reviews, Video, People also ask	Last week
-how to skip edgenuity videos	Informational	1000	27	0.00	Site links, Video, People also ask, Related searches	2 weeks
-what is the value of x edgenuity	Informational	1000	16	0.00	Reviews, Image, Image pack, Video, People also ask, Related searches	Last week
-what is edgenuity	Informational	720	45	0.00	Site links, Reviews, Video, People also ask, Knowledge panel, Related searches	Last week
-how to skip videos on edgenuity	Informational	590	27	0.00	Site links, Video, People also ask, Related searches	2 weeks
-do unit test reviews count on edgenuity	Informational, Commercial	260	15	0.00	Featured snippet, Site links, Reviews, Video, People also ask, Related searches	Last week
+edgenuity hack	Informational	
+edgenuity hack bot	Informational	
+edgenuity hacks	Informational	
+edgenuity hack auto answer	
+edgenuity answers hack	
+edgenuity answer hack	
+edgenuity hack 2023	
+imagine edgenuity hack	
+edgenuity hack script tampermonkey	Informational
+hack edgenuity
